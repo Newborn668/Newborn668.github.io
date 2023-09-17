@@ -2,11 +2,15 @@
 layout: page
 ---
 
-# About Me
+# 个人简历
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/lishijie.jpg" class="floatpic" width="360" height="480">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+李仕杰，男，博士，讲师，毕业于中国科学院上海天文台天体物理专业。
+参与1项国家自然科学基金重点项目，参与3项国家自然科学青年基金。
+现承担《Android程序设计》，《计算机网络基础》等课程的教学任务。
+研究方向：星震学，星系形成与演化，宇宙学数值模拟。
 
 I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
 
