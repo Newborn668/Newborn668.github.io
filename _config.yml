@@ -34,10 +34,10 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: 个人简介
     url: /
-  - title: Resume
+  - title: 文献
     url: /file/CV-HanlinCAI.pdf
   - title: 获奖情况
-    url: /awards/
+    url: ./awards111.md
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
