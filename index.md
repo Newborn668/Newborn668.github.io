@@ -4,7 +4,7 @@ layout: page
 
 # 个人简历
 
-<img src="https://newborn668.github.io/lishijie.jpg" class="floatpic" width="360" height="480">
+<img src="D:\github\Newborn668.github.io\images\lishijie.jpg" class="floatpic" width="360" height="480">
 
 
 **李仕杰**，男，博士，讲师，毕业于中国科学院上海天文台天体物理专业。
