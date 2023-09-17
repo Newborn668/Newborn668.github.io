@@ -4,10 +4,10 @@ layout: page
 
 # 个人简历
 
-<img src="https://newborn668.github.io/imageslishijie.jpg" class="floatpic" width="360" height="480">
+<img src="https://newborn668.github.io/lishijie.jpg" class="floatpic" width="360" height="480">
 
 
-**(李仕杰)**，男，博士，讲师，毕业于中国科学院上海天文台天体物理专业。
+**李仕杰**，男，博士，讲师，毕业于中国科学院上海天文台天体物理专业。
 参与1项国家自然科学基金重点项目，参与3项国家自然科学青年基金。
 现承担《Android程序设计》，《计算机网络基础》等课程的教学任务。
 研究方向：星震学，星系形成与演化，宇宙学数值模拟。
