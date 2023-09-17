@@ -1,13 +1,13 @@
-title: Hanlin Cai
+title: Shijie Li
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+# url: https://caihanlin.com
 
 # Owner/author information
 owner:
   name: 李仕杰
-  avatar: hanlin.jpg
+  # avatar: hanlin.jpg
  # bio:
   # email: hanlin.cai@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -37,7 +37,7 @@ links:
   - title: 文献
     url: /file/CV-HanlinCAI.pdf
   - title: 获奖情况
-    url: https://newborn668.github.io/awards111
+    url: ./
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
