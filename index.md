@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# 个人简历
+## 个人简历
 
 <img src="./images/lishijie.png" class="floatpic" width="360" height="480">
 
