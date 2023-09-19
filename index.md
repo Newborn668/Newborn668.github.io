@@ -12,18 +12,36 @@ layout: page
 现承担《Android程序设计》，《计算机网络基础》等课程的教学任务。
 研究方向：星震学，星系形成与演化，宇宙学数值模拟。
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+<!-- I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)]. -->
 
 <br>
 
-## Academic Background
+## 发表论文：
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+<!-- - **Sep 2020 - June 2024:** Fuzhou University (BEng) -->
+<!-- - **Sep 2020 - May 2024:** Maynooth University (BSc) -->
+<!-- - **June 2022 - Nov 2022:** Cambridge University (Visiting) -->
+<!-- - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! -->
+1. Shijie Li, Youcai Zhang, Xiaohu Yang, Huiyuan Wang, Dylan Tweed, Chengze Liu, Lei Yang, Feng Shi, Yi Lu, Wentao Luo, Jianwen Wei.
+“An Empirical Model to Form and Evolve Galaxies in Dark Matter Halos”.
+Research in Astronomy and Astrophysics(SCI), 2016, 16(8)
+2. 李仕杰，杨小虎
+MCMC方法在星系形成半解析模型中的应用
+天文学进展，2016，16（3）
+3. Huiyuan Wang, H.J. Mo, Xiaohu Yang, Youcai Zhang, JingJing Shi, Y. P. Jing, Chengze Liu, Shijie Li, Xi Kang, Yang Gao.
+“ELUCID - Exploring the Local Universe with reConstructed Initial Density field III: Constrained Simulation in the SDSS Volume ”
+2016, The Astrophysical Journal(SCI), 831(2), 164
+4. Yi Lu, Xiaohu Yang, Feng Shi, H.J. Mo, Dylan Tweed, Huiyuan Wang, Youcai Zhang, Shijie Li, S.H. Lim.
+“Galaxy groups in the 2MASS Redshift Survey”. 
+2016, The Astrophysical Journal(SCI), 832(1), 39
+5. Xiaohu Yang, Youcai Zhang, Huiyuan Wang, Chengze Liu, Tianhuan Lu, Shijie Li, et al.
+“ELUCID. V. Lighting Dark Matter Halos with Galaxies”.
+2018, The Astrophysical Journal(SCI), 860(1), 30
+6. Xiaohu Yang, Houjun Mo, Frank C. van den Bosch, Ana Bonaca, Shijie Li, Yi Lu, Yu Lu, Zhankui Lu.
+“Constraining the Star Formation Histories in Dark Matter Halos. I. Central Galaxies”. 
+2013, The Astrophysical Journal (SCI), 770, 115
 
 <br>
 
