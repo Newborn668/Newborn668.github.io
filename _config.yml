@@ -42,15 +42,15 @@ links:
   - title: 研究方向
     url: /publications/
   - title: 团队成员
-    url: /awards/
+    url: /blogs1/
   - title: 科研动态
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
+    url: /blogs2/
+  # - title: Hobbies
+    # url: /hobbies/
   # - title: Notes
     # url: /notes/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+    # url: 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
