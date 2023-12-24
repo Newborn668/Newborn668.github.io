@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/index.html
-title: Blogs
+title: 团队成员
 ---
 
 ## Chinese Blogs
