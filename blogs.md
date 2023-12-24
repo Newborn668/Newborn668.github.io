@@ -6,9 +6,9 @@ title: 团队成员
 
 ## 方向一
 
-### 2024
+### [唐延柯(教授)] (https://newborn668.github.io/blogs/web) <br>
 
-- [24Fall，英国硕士项目申请实录](https://newborn668.github.io/blogs/24fall/)
+- [24Fall，英国硕士项目申请实录](https://newborn668.github.io/blogs/web)<br>
 
 ### 2023
 
