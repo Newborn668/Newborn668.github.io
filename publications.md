@@ -16,12 +16,12 @@ title: 研究方向
 1.<br>
 2.<br>
 3.<br>
-- 大方向3
-1.df\
-2.
-- 大方向4
-1.
-2.
+- 大方向3<br>
+1.<br>
+2.<br>
+- 大方向4<br>
+1.<br>
+2.<br>
 
 <!-- - [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex). -->
 
