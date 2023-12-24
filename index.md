@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## 个人简历
+## 团队介绍
 
 <img src="" class="floatpic" width="360" height="480">
 
