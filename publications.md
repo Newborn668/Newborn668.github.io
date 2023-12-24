@@ -27,11 +27,11 @@ title: 研究方向
 
 <!-- - [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br> -->
 
-  <br>
+  <!-- <br> -->
 
 ## 在研课题
 
-1. 国家自然科学基金联合基金项目，U1931106，基于LAMOST对Kepler天区红团簇星的内部结构与演化状态的星震学研究，2020/01-2022/12，50万元，在研，主持
+1.国家自然科学基金联合基金项目，U1931106，基于LAMOST对Kepler天区红团簇星的内部结构与演化状态的星震学研究，2020/01-2022/12，50万元，在研，主持
 
   <!-- <br> -->
 
