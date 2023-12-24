@@ -9,7 +9,7 @@ title: web
 > Philosophy：极简、高效、免费
 
 <center>
-<img src = "/blogs/web.assets/github-logo.png">
+<img src = "tang.jpg">
 </center>
 <br>本站点自2022年12月正式发布以来，经历了2次重大修改，如今的单月访客量达到500+，在此感谢各位访客朋友的支持！与此同时，许多朋友也开始通过各种形式来咨询笔者——**如何搭建属于自己的轻量化主页？**
 
