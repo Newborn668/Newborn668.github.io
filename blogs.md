@@ -4,11 +4,11 @@ permalink: /blogs/index.html
 title: 团队成员
 ---
 
-## Chinese Blogs
+## 方向一
 
 ### 2024
 
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+- [24Fall，英国硕士项目申请实录](https://newborn668.github.io/blogs/24fall/)
 
 ### 2023
 
