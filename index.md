@@ -9,9 +9,9 @@ title: 主页
 
 
 来自德州学院物理与电子信息学院,盖宁教授为团队负责人。
-
+<br>德州学院物理与电子信息学院 启智楼0411
+<br>邮箱：ning_gai@163.com
 <br>
-
 ## 研究方向
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
