@@ -20,21 +20,21 @@ layout: page
 - **太阳物理:**...
 - **行星大气：**...
 
-<br>
+<!-- <br> -->
 
----
+<!-- --- -->
 
 <!-- ## Research Interests -->
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+<!-- - Industrial IoT System -->
+<!-- - Network Cybersecurity -->
+<!-- - Applied Machine Learning -->
 
 <!-- My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
 
 <!-- <br> -->
 
----
+<!-- --- -->
 <!--  -->
 <!-- ## News and Updates -->
 
