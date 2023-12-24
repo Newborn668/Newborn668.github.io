@@ -5,19 +5,6 @@ title: Shijie Li
 # url: https://caihanlin.com
 
 # Owner/author information
-<<<<<<< HEAD
-# owner:
-  # name: 李仕杰
-  # avatar: hanlin.jpg
- # bio:
-  # email: hanlin.cai@ieee.org
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
-  # facebook: caihanlin2002
-  # github: GuangLun2000
-  # linkedin: hanlincai
-  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-=======
 owner:
   name: Hanlin Cai
   avatar: hanlin.jpg
@@ -33,7 +20,6 @@ owner:
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
->>>>>>> 963d0553599025e8ac7f0e6bc48d79e5ddc77165
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -52,13 +38,6 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: 个人简介
     url: /
-<<<<<<< HEAD
-  # - title: 文献
-    # url: /file/CV-HanlinCAI.pdf
-  # - title: 获奖情况
-    # url: ./awards111.md
-
-=======
   - title: Publications
     url: /publications/
   - title: Awards
@@ -71,7 +50,6 @@ links:
     # url: /notes/
   - title: Blogs
     url: /blogs/
->>>>>>> 963d0553599025e8ac7f0e6bc48d79e5ddc77165
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
