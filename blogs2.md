@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs2/index.html
-title:科研动态
+title: 科研动态
 ---
 
 ### 组会
