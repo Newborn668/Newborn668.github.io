@@ -7,18 +7,18 @@ layout: page
 <!-- <img src="" class="floatpic" width="360" height="480"> -->
 
 
-来自德州学院物理与电子信息学院.
+来自德州学院物理与电子信息学院,盖宁教授为团队负责人。
 
 <br>
 
-## 发表论文：
+## 研究方向
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **恒星物理和星震学：** 恒星内部结构演化...
+- **星系:** ...
+- **太阳物理:**...
+- **行星大气：**...
 
 <br>
 
