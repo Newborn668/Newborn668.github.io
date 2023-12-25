@@ -4,7 +4,8 @@ permalink: /blogs2/index.html
 title: 科研动态
 ---
 ### 学术交流
-- [2023/11/23 大视场测光巡天高精度流量定标方法的研究与应用--肖凯](https://wlx.dzu.edu.cn/info/1078/5008.htm)<br>
+- [2023/11/23 大视场测光巡天高精度流量定标方法的研究与应用--肖凯](https://wlx.dzu.edu.cn/info/1078/5008.htm)<br><br>
+
 ### 组会
 
 - [2023/12/13 太阳爆发物理过程](https://newborn668.github.io/blogs2/zuihui/z20231213)<br>
@@ -15,3 +16,5 @@ title: 科研动态
 - [2023/10/17 恒星参量和氦元素丰度星震学研究](https://newborn668.github.io/blogs2/zuihui/z20231017)<br>
 - [2023/09/26 AGN外流气体的时间依赖光电离分析](https://newborn668.github.io/blogs2/zuihui/z20230926)<br>
 - [2023/09/20 发展天体物理创新团队的思路与建议](https://newborn668.github.io/blogs2/zuihui/z20230920)<br>
+
+### 学术交流
