@@ -15,4 +15,6 @@ title: 团队成员
 - [王一凡](https://newborn668.github.io/blogs/cv/wyf)<<br>
 - [高阳](https://newborn668.github.io/blogs/cv/gy)<br>
 - [李雨桐](https://newborn668.github.io/blogs/cv/lyt)<br>
-
+### 太阳物理和行星大气
+- [李传洋](https://newborn668.github.io/blogs/cv/lcy)<br>
+- [李子川](https://newborn668.github.io/blogs/cv/lcy)<br>
