@@ -65,7 +65,7 @@ title: 唐延柯
 [11] Gai N, Bi S L, **Tang Y** K. Modeling ϵ Eri and Asteroseismic Tests of Element Diffusion[J]. Chinese Journal of Astronomy and Astrophysics, 2008, 8(5): 591.<br>
 [12] Gai N, Bi S L, **Tang Y** K. Asteroseismic Tests of Heavy Element Diffusion in Low-Mass Stars[C]//Solar-Stellar Dynamos as Revealed by Helio-and Asteroseismology: GONG 2008/SOHO 21. 2009, 416: 415.<br>
 [13] **Tang Y** K, Zhang H S, Chen C Y, et al. Fluctuation with dust of de Sitter ground state of scalar-tensor gravity[J]. Science China Physics, Mechanics and Astronomy, 2014, 57: 411-417.<br>
-[14] **Tang Y** K, Deng L H. Phase asynchrony between flare index and sunspot activity[J]. Science China Physics, Mechanics and Astronomy, 2013, 56: 1981-1986.
+[14] **Tang Y** K, Deng L H. Phase asynchrony between flare index and sunspot activity[J]. Science China Physics, Mechanics and Astronomy, 2013, 56: 1981-1986.<br>
 [15] **Tang Y** K, Bi S L, Gai N. Seismic analysis of 70 Ophiuchi A: A new quantity proposed[J]. New Astronomy, 2008, 13(8): 541-548.<br>
 [16] **Tang Y** K, Bi S L, Gai N, et al. Asteroseismic Analysis of α Cen B: Preliminary Tests of Effects of Rotation and Interior Magnetic Field in the Solar-like Star[J]. Chinese Journal of Astronomy and Astrophysics, 2008, 8(4): 421.<br>
 [17] **Tang Y** K, Bi S L, Gai N. Asteroseismic study of solar-like stars: A method of estimating stellar age[J]. Proceedings of the International Astronomical Union, 2008, 4(S252): 115-116.<br>
