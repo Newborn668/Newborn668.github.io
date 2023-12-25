@@ -31,11 +31,11 @@ title: 李仕杰
 
 ### 发表论文
 [1] **Shijie Li**, Youcai Zhang, Xiaohu Yang, Huiyuan Wang, Dylan Tweed, Chengze Liu, Lei Yang, Feng Shi, Yi Lu, Wentao Luo, Jianwen Wei. An Empirical Model to Form and Evolve Galaxies in Dark Matter Halos.
-Research in Astronomy and Astrophysics, 2016, 16(8)
+Research in Astronomy and Astrophysics, 2016, 16(8)<br>
 [2] **李仕杰**，杨小虎. MCMC方法在星系形成半解析模型中的应用. 
-天文学进展，2016，16（3）
-[3] Huiyuan Wang, H.J. Mo, Xiaohu Yang, Youcai Zhang, JingJing Shi, Y. P. Jing, Chengze Liu, **Shijie Li**, Xi Kang, Yang Gao. ELUCID - Exploring the Local Universe with reConstructed Initial Density field III: Constrained Simulation in the SDSS Volume. 2016, The Astrophysical Journal(SCI), 831(2), 164
-[4]Yi Lu, Xiaohu Yang, Feng Shi, H.J. Mo, Dylan Tweed, Huiyuan Wang, Youcai Zhang, **Shijie Li**, S.H. Lim. Galaxy groups in the 2MASS Redshift Survey. 2016, The Astrophysical Journal(SCI), 832(1), 39
-[5] Xiaohu Yang, Youcai Zhang, Huiyuan Wang, Chengze Liu, Tianhuan Lu, **Shijie Li**, et al. ELUCID. V. Lighting Dark Matter Halos with Galaxies. 2018, The Astrophysical Journal(SCI), 860(1), 30
-[6] Xiaohu Yang, Houjun Mo, Frank C. van den Bosch, Ana Bonaca, **Shijie Li**, Yi Lu, Yu Lu, Zhankui Lu. Constraining the Star Formation Histories in Dark Matter Halos. I. Central Galaxies. 2013, The Astrophysical Journal (SCI), 770, 115
+天文学进展，2016，16（3）<br>
+[3] Huiyuan Wang, H.J. Mo, Xiaohu Yang, Youcai Zhang, JingJing Shi, Y. P. Jing, Chengze Liu, **Shijie Li**, Xi Kang, Yang Gao. ELUCID - Exploring the Local Universe with reConstructed Initial Density field III: Constrained Simulation in the SDSS Volume. 2016, The Astrophysical Journal(SCI), 831(2), 164<br>
+[4]Yi Lu, Xiaohu Yang, Feng Shi, H.J. Mo, Dylan Tweed, Huiyuan Wang, Youcai Zhang, **Shijie Li**, S.H. Lim. Galaxy groups in the 2MASS Redshift Survey. 2016, The Astrophysical Journal(SCI), 832(1), 39<br>
+[5] Xiaohu Yang, Youcai Zhang, Huiyuan Wang, Chengze Liu, Tianhuan Lu, **Shijie Li**, et al. ELUCID. V. Lighting Dark Matter Halos with Galaxies. 2018, The Astrophysical Journal(SCI), 860(1), 30<br>
+[6] Xiaohu Yang, Houjun Mo, Frank C. van den Bosch, Ana Bonaca, **Shijie Li**, Yi Lu, Yu Lu, Zhankui Lu. Constraining the Star Formation Histories in Dark Matter Halos. I. Central Galaxies. 2013, The Astrophysical Journal (SCI), 770, 115<br>
 

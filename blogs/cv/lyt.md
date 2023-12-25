@@ -35,11 +35,11 @@ title: 李雨桐
 （5）国家自然科学基金项目，偏振光子的逆康普顿散射及其在天体物理中的应用，2015.01-2017.12，已结题，参与，（第四位）
 
 ### 发表论文
-[1] **Yutong Li**, Paul J. Wiita, Terance Schuh, Geena Elghossain and Shaoming Hu。“RADIO-LOUD AGN VARIABILITY FROM THREE-DIMENSIONAL PROPAGATING RELATIVISTIC JETS”。The Astrophysical Journal, 2018, 869, 32 。 
-[2] **Yutong Li** , Shaoming Hu,Paul J. Wiita and Alok C. Gupta 。 “Statistical analysis of variability properties of the Kepler blazar W2R 1926+42”。Monthly Notices of the Royal Astronomical Society, 2018, 478,172。
-[3] **Yu Tong Li** , Shao Ming Hu, Y. G. Jiang, Xu Chen, Shishir Priyadarshi, Kai Li, Yu Cheng Guo, Difu Guo 。“Symmetry Analysis of the Multi-band Optical Variability of BL LAC S5 0716+714 in Intranight and Longer Timescales” 。 Publications of the Astronomical Society of the Pacifific，2017, 129,4101。
-[4] Jingran Xu; Shaoming Hu; James R.Webb; Gopal Bhatta; Yunguo Jiang; Xu Chen；Sofya Alexeeva.；**Yutong Li**，Statistical Analysis of Microvariability Properties of the Blazar S5 0716+714, The Astrophysical Journal, 2019, 884(1)
-[5] Guo Y. C., Hu S. M., **Li Y. T.** , Chen X. 。 “Statistical Analysis on Temporal Properties of BL Lacertae” 。 MNRAS , 2016, 460, 1790。
-[6] Jiang, Y. G.; Hu, S. M.; Chen, X.; Li, K.; Guo, D. F.; **Li, Y. T.** ; Li, H. Z.; Zhao, Y. Y.; Lin, H. N.; Chang, Z. 。 “Timeresolved GRB spectra in the complex radiation of synchrotron and Compton processes”。 MNRAS，2016, 456, 3386J。
+[1] **Yutong Li**, Paul J. Wiita, Terance Schuh, Geena Elghossain and Shaoming Hu。“RADIO-LOUD AGN VARIABILITY FROM THREE-DIMENSIONAL PROPAGATING RELATIVISTIC JETS”。The Astrophysical Journal, 2018, 869, 32 。 <br>
+[2] **Yutong Li** , Shaoming Hu,Paul J. Wiita and Alok C. Gupta 。 “Statistical analysis of variability properties of the Kepler blazar W2R 1926+42”。Monthly Notices of the Royal Astronomical Society, 2018, 478,172。<br>
+[3] **Yu Tong Li** , Shao Ming Hu, Y. G. Jiang, Xu Chen, Shishir Priyadarshi, Kai Li, Yu Cheng Guo, Difu Guo 。“Symmetry Analysis of the Multi-band Optical Variability of BL LAC S5 0716+714 in Intranight and Longer Timescales” 。 Publications of the Astronomical Society of the Pacifific，2017, 129,4101。<br>
+[4] Jingran Xu; Shaoming Hu; James R.Webb; Gopal Bhatta; Yunguo Jiang; Xu Chen；Sofya Alexeeva.；**Yutong Li**，Statistical Analysis of Microvariability Properties of the Blazar S5 0716+714, The Astrophysical Journal, 2019, 884(1)<br>
+[5] Guo Y. C., Hu S. M., **Li Y. T.** , Chen X. 。 “Statistical Analysis on Temporal Properties of BL Lacertae” 。 MNRAS , 2016, 460, 1790。<br>
+[6] Jiang, Y. G.; Hu, S. M.; Chen, X.; Li, K.; Guo, D. F.; **Li, Y. T.** ; Li, H. Z.; Zhao, Y. Y.; Lin, H. N.; Chang, Z. 。 “Timeresolved GRB spectra in the complex radiation of synchrotron and Compton processes”。 MNRAS，2016, 456, 3386J。<br>
 
 

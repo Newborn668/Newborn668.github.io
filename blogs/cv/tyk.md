@@ -52,39 +52,39 @@ title: 唐延柯
 （11）山东省自然科学基金面上项目，海量高维星系光谱的参数自动测量，2012/07-2015/07， 6万元，已结题，参与（第六位）
 
 ### 发表论文
-[1] **Tang Y**, Basu S, Davies G R, et al. Asteroseismology of KIC 8263801: Is it a member of NGC 6866 and a red clump star?[J]. The Astrophysical Journal, 2018, 866(1): 59.
-[2] Gai N, Basu S, **Tang Y**. Asteroseismic Investigations of the Binary System HD 176465[J]. The Astrophysical Journal, 2018, 856(2): 123.
-[3] 盖宁, **唐延柯**, 黄样. 疏散星团 NGC 6866 视场中 5 颗类太阳振动红巨星的星震学研究[J]. 天文学报, 2018, 59(2).
-[4] Z.H. Li, H.P. Liu, X.M. Zhang, Y.Q. Zhang, R.R. Zhang, S.C. Xu, **Y.K. Tang**, X.X. Wang, J.Y. Zhang, L. Ma, and C.F. Cheng，Metasurface of deflection prism phases for generating non-diffracting optical vortex lattices, Optics EXPRESS, 2018，Vol. 26, No. 22.
-[5] Gai N, **Tang Y**, Yu P, et al. Asteroseismic Diagram for Subgiants and Red Giants[J]. The Astrophysical Journal, 2017, 836(1): 3.
-[6] Gai N, **Tang Y**. Asteroseismic Analysis of the Internal Structure and Evolution of Red Giant Branch Bump Stars[J]. The Astrophysical Journal, 2015, 804(1): 6.
-[7] **Tang Y** K, Gai N. The relationship between νmax and age t from ZAMS to RGB-Tip for low-mass stars[J]. The Astrophysical Journal, 2013, 771(2): 99.
-[8] **Tang Y** K, Gai N. Asteroseismic modelling of the metal-poor star τ Ceti[J]. Astronomy & Astrophysics, 2011, 526: A35.
-[9] Gai N, Bi S L, **Tang Y** K, et al. Asteroseismic study of helium and heavy element diffusion in solar-type stars[J]. Astronomy & Astrophysics, 2009, 508(2): 849-854.
-[10] **Tang Y** K, Bi S L, Gai N. A new asteroseismic diagram of solar-like stars[J]. Astronomy & Astrophysics, 2008, 492(3): L49-L52.
-[11] Gai N, Bi S L, **Tang Y** K. Modeling ϵ Eri and Asteroseismic Tests of Element Diffusion[J]. Chinese Journal of Astronomy and Astrophysics, 2008, 8(5): 591.
-[12] Gai N, Bi S L, **Tang Y** K. Asteroseismic Tests of Heavy Element Diffusion in Low-Mass Stars[C]//Solar-Stellar Dynamos as Revealed by Helio-and Asteroseismology: GONG 2008/SOHO 21. 2009, 416: 415.
-[13] **Tang Y** K, Zhang H S, Chen C Y, et al. Fluctuation with dust of de Sitter ground state of scalar-tensor gravity[J]. Science China Physics, Mechanics and Astronomy, 2014, 57: 411-417.
+[1] **Tang Y**, Basu S, Davies G R, et al. Asteroseismology of KIC 8263801: Is it a member of NGC 6866 and a red clump star?[J]. The Astrophysical Journal, 2018, 866(1): 59.<br>
+[2] Gai N, Basu S, **Tang Y**. Asteroseismic Investigations of the Binary System HD 176465[J]. The Astrophysical Journal, 2018, 856(2): 123.<br>
+[3] 盖宁, **唐延柯**, 黄样. 疏散星团 NGC 6866 视场中 5 颗类太阳振动红巨星的星震学研究[J]. 天文学报, 2018, 59(2).<br>
+[4] Z.H. Li, H.P. Liu, X.M. Zhang, Y.Q. Zhang, R.R. Zhang, S.C. Xu, **Y.K. Tang**, X.X. Wang, J.Y. Zhang, L. Ma, and C.F. Cheng，Metasurface of deflection prism phases for generating non-diffracting optical vortex lattices, Optics EXPRESS, 2018，Vol. 26, No. 22.<br>
+[5] Gai N, **Tang Y**, Yu P, et al. Asteroseismic Diagram for Subgiants and Red Giants[J]. The Astrophysical Journal, 2017, 836(1): 3.<br>
+[6] Gai N, **Tang Y**. Asteroseismic Analysis of the Internal Structure and Evolution of Red Giant Branch Bump Stars[J]. The Astrophysical Journal, 2015, 804(1): 6.<br>
+[7] **Tang Y** K, Gai N. The relationship between νmax and age t from ZAMS to RGB-Tip for low-mass stars[J]. The Astrophysical Journal, 2013, 771(2): 99.<br>
+[8] **Tang Y** K, Gai N. Asteroseismic modelling of the metal-poor star τ Ceti[J]. Astronomy & Astrophysics, 2011, 526: A35.<br>
+[9] Gai N, Bi S L, **Tang Y** K, et al. Asteroseismic study of helium and heavy element diffusion in solar-type stars[J]. Astronomy & Astrophysics, 2009, 508(2): 849-854.<br>
+[10] **Tang Y** K, Bi S L, Gai N. A new asteroseismic diagram of solar-like stars[J]. Astronomy & Astrophysics, 2008, 492(3): L49-L52.<br>
+[11] Gai N, Bi S L, **Tang Y** K. Modeling ϵ Eri and Asteroseismic Tests of Element Diffusion[J]. Chinese Journal of Astronomy and Astrophysics, 2008, 8(5): 591.<br>
+[12] Gai N, Bi S L, **Tang Y** K. Asteroseismic Tests of Heavy Element Diffusion in Low-Mass Stars[C]//Solar-Stellar Dynamos as Revealed by Helio-and Asteroseismology: GONG 2008/SOHO 21. 2009, 416: 415.<br>
+[13] **Tang Y** K, Zhang H S, Chen C Y, et al. Fluctuation with dust of de Sitter ground state of scalar-tensor gravity[J]. Science China Physics, Mechanics and Astronomy, 2014, 57: 411-417.<br>
 [14] **Tang Y** K, Deng L H. Phase asynchrony between flare index and sunspot activity[J]. Science China Physics, Mechanics and Astronomy, 2013, 56: 1981-1986.
-[15] **Tang Y** K, Bi S L, Gai N. Seismic analysis of 70 Ophiuchi A: A new quantity proposed[J]. New Astronomy, 2008, 13(8): 541-548.
-[16] **Tang Y** K, Bi S L, Gai N, et al. Asteroseismic Analysis of α Cen B: Preliminary Tests of Effects of Rotation and Interior Magnetic Field in the Solar-like Star[J]. Chinese Journal of Astronomy and Astrophysics, 2008, 8(4): 421.
-[17] **Tang Y** K, Bi S L, Gai N. Asteroseismic study of solar-like stars: A method of estimating stellar age[J]. Proceedings of the International Astronomical Union, 2008, 4(S252): 115-116.
-[18] Bi S L, Li L H, **Tang Y** K, et al. Asteroseismic study of the red giant∊ Ophiuchi[J]. Research in Astronomy and Astrophysics, 2010, 10(12): 1265.
-[19] Deng L H, Gai N, **Tang Y** K, et al. Phase asynchrony of hemispheric flare activity revisited: empirical mode decomposition and wavelet transform analyses[J]. Astrophysics and Space Science, 2013, 343: 27-32.
-[20] Deng, L. H., Song, J. Y., Xiang, Y. Y., & **Tang, Y. K**. (2011). The relative phase asynchronization between sunspot numbers and polar faculae. Journal of Astrophysics and Astronomy, 32, 401-409.
+[15] **Tang Y** K, Bi S L, Gai N. Seismic analysis of 70 Ophiuchi A: A new quantity proposed[J]. New Astronomy, 2008, 13(8): 541-548.<br>
+[16] **Tang Y** K, Bi S L, Gai N, et al. Asteroseismic Analysis of α Cen B: Preliminary Tests of Effects of Rotation and Interior Magnetic Field in the Solar-like Star[J]. Chinese Journal of Astronomy and Astrophysics, 2008, 8(4): 421.<br>
+[17] **Tang Y** K, Bi S L, Gai N. Asteroseismic study of solar-like stars: A method of estimating stellar age[J]. Proceedings of the International Astronomical Union, 2008, 4(S252): 115-116.<br>
+[18] Bi S L, Li L H, **Tang Y** K, et al. Asteroseismic study of the red giant∊ Ophiuchi[J]. Research in Astronomy and Astrophysics, 2010, 10(12): 1265.<br>
+[19] Deng L H, Gai N, **Tang Y** K, et al. Phase asynchrony of hemispheric flare activity revisited: empirical mode decomposition and wavelet transform analyses[J]. Astrophysics and Space Science, 2013, 343: 27-32.<br>
+[20] Deng, L. H., Song, J. Y., Xiang, Y. Y., & **Tang, Y. K**. (2011). The relative phase asynchronization between sunspot numbers and polar faculae. Journal of Astrophysics and Astronomy, 32, 401-409.<br>
 [21] Dong A J, **Tang Y** K, Gai N. Light Curve Periodic Variability of Cyg X-1 using Jurkevich Method[J]. Journal of Astrophysics and Astronomy, 2014, 35: 275-277.
-[22] Zhang L, Jing J, **Tang Y**, et al. Photometric study of neglected eclipsing binary GSC 3576-0170[J]. New Astronomy, 2010, 15(8): 653-656.
-[23] Liu Z E, **Tang Y** K, Gai N. Solar-like Oscillations of the Red Giant ɛ Ophiuchi[J]. Chinese Astronomy and Astrophysics, 2008, 32(4): 380-387.
-[24] Liu, Z. E., Yu, H. R., Zhang, T. J., &**Tang, Y. K**. (2016). Direct reconstruction of dynamical dark energy from observational Hubble parameter data. Physics of the Dark Universe, 14, 21-28.
-[25] 刘志娥，**唐延柯**，盖宁，红巨星ɛ ophiuchi的类太阳振动，天文学报，2008年4月，第49卷，第2期
+[22] Zhang L, Jing J, **Tang Y**, et al. Photometric study of neglected eclipsing binary GSC 3576-0170[J]. New Astronomy, 2010, 15(8): 653-656.<br>
+[23] Liu Z E, **Tang Y** K, Gai N. Solar-like Oscillations of the Red Giant ɛ Ophiuchi[J]. Chinese Astronomy and Astrophysics, 2008, 32(4): 380-387.<br>
+[24] Liu, Z. E., Yu, H. R., Zhang, T. J., &**Tang, Y. K**. (2016). Direct reconstruction of dynamical dark energy from observational Hubble parameter data. Physics of the Dark Universe, 14, 21-28.<br>
+[25] 刘志娥，**唐延柯**，盖宁，红巨星ɛ ophiuchi的类太阳振动，天文学报，2008年4月，第49卷，第2期<br>
 
 ### 科研获奖
 
-（1）盖宁，唐延柯，《利用星震学方法研究恒星内部的理论物理特性》获山东省高等学校科学技术奖，三等奖，2018年10月，山东省教育厅
-（2）盖宁，唐延柯，《疏散星团NGC6866视场中5颗类太阳振动红巨星的星震学研究》获2016-2018年度德州市第十四届自然科学学术成果奖，一等奖，2018年9月，德州市委组织部
-（3）盖宁，唐延柯，《亚巨星和红巨星的星震图》获德州学院优秀科研成果奖，二等奖，2018年12月，德州学院
-（4）唐延柯，盖宁，《利用星震学方法研究恒星年龄》获德州学院优秀科研成果奖（青年），二等奖，2014年12月，德州学院
-（5）唐延柯，盖宁，《空间物理和恒星物理的研究》获2014年山东省自然科学学术创新奖，一等奖，2014年11月，山东省科学技术协会
-（6）唐延柯，盖宁，《空间物理和恒星物理的研究》获山东高等学校优秀科研成果奖，三等奖，2014年9月，山东省教育厅
-（7）许士才，唐延柯，山东高等学校优秀科研成果奖，三等奖，2015年9月，山东省教育厅
-（8）唐延柯，陈伟，盖宁等，2012-2013年度山东省职工教育与职业教育优秀科研成果一等奖，2013年12月，山东省职工教育协会
+（1）盖宁，唐延柯，《利用星震学方法研究恒星内部的理论物理特性》获山东省高等学校科学技术奖，三等奖，2018年10月，山东省教育厅<br>
+（2）盖宁，唐延柯，《疏散星团NGC6866视场中5颗类太阳振动红巨星的星震学研究》获2016-2018年度德州市第十四届自然科学学术成果奖，一等奖，2018年9月，德州市委组织部<br>
+（3）盖宁，唐延柯，《亚巨星和红巨星的星震图》获德州学院优秀科研成果奖，二等奖，2018年12月，德州学院<br>
+（4）唐延柯，盖宁，《利用星震学方法研究恒星年龄》获德州学院优秀科研成果奖（青年），二等奖，2014年12月，德州学院<br>
+（5）唐延柯，盖宁，《空间物理和恒星物理的研究》获2014年山东省自然科学学术创新奖，一等奖，2014年11月，山东省科学技术协会<br>
+（6）唐延柯，盖宁，《空间物理和恒星物理的研究》获山东高等学校优秀科研成果奖，三等奖，2014年9月，山东省教育厅<br>
+（7）许士才，唐延柯，山东高等学校优秀科研成果奖，三等奖，2015年9月，山东省教育厅<br>
+（8）唐延柯，陈伟，盖宁等，2012-2013年度山东省职工教育与职业教育优秀科研成果一等奖，2013年12月，山东省职工教育协会<br>

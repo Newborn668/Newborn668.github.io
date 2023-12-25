@@ -33,16 +33,16 @@ title: 高扬
 （3）国家自然科学基金委员会, 面上项目, 11773051, 宇宙再电离时期莱曼α发射线星系的观测研究, 2018-01-01 至 2021-12-31, 64万元, 参与 
 
 ### 发表论文
-[1] **Gao, Yang**; Xiao, Ting; Li, Cheng; Jiang, Xue-Jian; Tan, Qing-Hua; Gao, Yu; Wilson, Christine D.; Bureau, Martin; Saintonge, Amélie; Sánchez-Gallego, José R.; Brown, Toby; Clark, Christop her J. R.; Hwang, Ho Seong; Lamperti, Isabella; Lin, Lin; Liu, Lijie; Lu, Dengrong; Pan, Hsi-An; Sun, Jixian; Williams, Thomas G.; Estimating the Molecular Gas Mass of Low-redshift Galaxies from a Combination of Mid-infrared Luminosity and Optical Properties, APJ, 2019, 887(2): 172-189
-[2]**高扬**; 肖婷; 星系中分子气体与恒星形成的研究进展, 天文学进展, 2020, 38(2): 121-138
-[3] **Gao, Yang**; Tan, Qinghua; Gao, Yu; Fang, Min; Chown, Ryan; Jiao, Qian; Luo, Chun-Sheng; The correlation between WISE 12 𝜇m emission and molecular gas tracers on sub-kpc scales in nearby star-forming galaxies, APJ, 2022, 940:133-145
-[4] Jiao, Q., **Gao, Y**., Tan, Q., et al. Dense gas star formation efficiency and the LHCN (4−3)'/LHCO+(4−3)' ratio: insights from a statistical study of infrared bright star-forming galaxies, 2023, Frontiers in Astronomy and Space Sciences, 10, 1246978
-[5] Chown, R; Parker, L; Wilson, C.~D; et al. The cold gas and dust properties of red star-forming galaxies, 2022, MNRAS, 516,84C
-[6] Relaño, M.; De Looze, I.; Saintonge, A. ; et al. Dust grain size evolution in local galaxies: a comparison between observations and simulations, 2022, MNRAS, doi:10.1093/mnras/stac2108 
-[7] Chown, R; Li, C; Parker, L; et al. A new estimator of resolved molecular gas in nearby galaxies, 2021, MNRAS, 500, 1261C
-[8] De Looze, I; Lamperti, I; Saintonge, A; et al. JINGLE - IV. Dust, H I gas, and metal scaling laws in the local Universe, 2020, MNRAS, 496, 3668D
-[9] Smith, M.~W.~L; Clark, C.~J.~R; De Looze, I; et al. JINGLE, a JCMT legacy survey of dust and gas for galaxy evolution studies: II. SCUBA-2 850 μm data reduction and dust flux density catalogues, 2019, MNRAS, 486, 4166S
-[10] Saintonge, A; Wilson, C.~D; Xiao, T; et al. JINGLE, a JCMT legacy survey of dust and gas for galaxy evolution studies - I. Survey overview and first results, 2018, MNRAS, 481, 3497S
-[11] Pan, H.-A; Lin, L; Hsieh, B.-C; et al. The Effect of Galaxy Interactions on Molecular Gas Properties, 2018, ApJ, 868, 132P
-[12] Pan, H.-A; Lin, L; Hsieh, B.-C; et al. SDSS IV MaNGA: Dependence of Global and Spatially Resolved SFR-M∗ Relations on Galaxy Properties, 2018, ApJ, 854, 159P 
-[13] Albareti, F.~D; Allende Prieto, C; Almeida, A; et al. The 13th Data Release of the Sloan Digital Sky Survey: First Spectroscopic Data from the SDSS-IV Survey Mapping Nearby Galaxies at Apache Point Observatory, 2017, ApJS, 233, 25ª 
+[1] **Gao, Yang**; Xiao, Ting; Li, Cheng; Jiang, Xue-Jian; Tan, Qing-Hua; Gao, Yu; Wilson, Christine D.; Bureau, Martin; Saintonge, Amélie; Sánchez-Gallego, José R.; Brown, Toby; Clark, Christop her J. R.; Hwang, Ho Seong; Lamperti, Isabella; Lin, Lin; Liu, Lijie; Lu, Dengrong; Pan, Hsi-An; Sun, Jixian; Williams, Thomas G.; Estimating the Molecular Gas Mass of Low-redshift Galaxies from a Combination of Mid-infrared Luminosity and Optical Properties, APJ, 2019, 887(2): 172-189<br>
+[2]**高扬**; 肖婷; 星系中分子气体与恒星形成的研究进展, 天文学进展, 2020, 38(2): 121-138<br>
+[3] **Gao, Yang**; Tan, Qinghua; Gao, Yu; Fang, Min; Chown, Ryan; Jiao, Qian; Luo, Chun-Sheng; The correlation between WISE 12 𝜇m emission and molecular gas tracers on sub-kpc scales in nearby star-forming galaxies, APJ, 2022, 940:133-145<br>
+[4] Jiao, Q., **Gao, Y**., Tan, Q., et al. Dense gas star formation efficiency and the LHCN (4−3)'/LHCO+(4−3)' ratio: insights from a statistical study of infrared bright star-forming galaxies, 2023, Frontiers in Astronomy and Space Sciences, 10, 1246978<br>
+[5] Chown, R; Parker, L; Wilson, C.~D; et al. The cold gas and dust properties of red star-forming galaxies, 2022, MNRAS, 516,84C<br>
+[6] Relaño, M.; De Looze, I.; Saintonge, A. ; et al. Dust grain size evolution in local galaxies: a comparison between observations and simulations, 2022, MNRAS, doi:10.1093/mnras/stac2108 <br>
+[7] Chown, R; Li, C; Parker, L; et al. A new estimator of resolved molecular gas in nearby galaxies, 2021, MNRAS, 500, 1261C<br>
+[8] De Looze, I; Lamperti, I; Saintonge, A; et al. JINGLE - IV. Dust, H I gas, and metal scaling laws in the local Universe, 2020, MNRAS, 496, 3668D<br>
+[9] Smith, M.~W.~L; Clark, C.~J.~R; De Looze, I; et al. JINGLE, a JCMT legacy survey of dust and gas for galaxy evolution studies: II. SCUBA-2 850 μm data reduction and dust flux density catalogues, 2019, MNRAS, 486, 4166S<br>
+[10] Saintonge, A; Wilson, C.~D; Xiao, T; et al. JINGLE, a JCMT legacy survey of dust and gas for galaxy evolution studies - I. Survey overview and first results, 2018, MNRAS, 481, 3497S<br>
+[11] Pan, H.-A; Lin, L; Hsieh, B.-C; et al. The Effect of Galaxy Interactions on Molecular Gas Properties, 2018, ApJ, 868, 132P<br>
+[12] Pan, H.-A; Lin, L; Hsieh, B.-C; et al. SDSS IV MaNGA: Dependence of Global and Spatially Resolved SFR-M∗ Relations on Galaxy Properties, 2018, ApJ, 854, 159P<br>
+[13] Albareti, F.~D; Allende Prieto, C; Almeida, A; et al. The 13th Data Release of the Sloan Digital Sky Survey: First Spectroscopic Data from the SDSS-IV Survey Mapping Nearby Galaxies at Apache Point Observatory, 2017, ApJS, 233, 25ª <br>

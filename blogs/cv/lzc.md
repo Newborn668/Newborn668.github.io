@@ -26,7 +26,7 @@ title: 李子川
 2023.10-至今    德州学院 物理与电子信息学院 讲师
 
 ### 发表论文
-[1] **Li Z C**, Cao Y T. Martian Thermosphere Response to Solar Flares: MAVEN NGIMS Observations[J]. Research in Astronomy and Astrophysics, 2023, 23(5): 055017.
-[2] **Li Z**, Niu D, Gu H, et al. Modeling the CO 2+ Ultraviolet Doublet Emission from Mars with a Multi-Instrument MAVEN Data Set[J]. Remote Sensing, 2022, 14(7): 1705. 
-[3] **Li Z C**, Cui J, Li J, et al. Solar control of CO2+ ultraviolet doublet emission on Mars[J]. Earth and Planetary Physics, 2020, 4(6): 543-549.
-[4] Hao G, Yutian C, **Zichuan L**, et al. MAVEN-based investigation of Martian exobase temperatures: Diurnal and solar cycle variations[J]. 地球与行星物理论评, 2023, 54(1): 91-99.
+[1] **Li Z C**, Cao Y T. Martian Thermosphere Response to Solar Flares: MAVEN NGIMS Observations[J]. Research in Astronomy and Astrophysics, 2023, 23(5): 055017.<br>
+[2] **Li Z**, Niu D, Gu H, et al. Modeling the CO 2+ Ultraviolet Doublet Emission from Mars with a Multi-Instrument MAVEN Data Set[J]. Remote Sensing, 2022, 14(7): 1705. <br>
+[3] **Li Z C**, Cui J, Li J, et al. Solar control of CO2+ ultraviolet doublet emission on Mars[J]. Earth and Planetary Physics, 2020, 4(6): 543-549.<br>
+[4] Hao G, Yutian C, **Zichuan L**, et al. MAVEN-based investigation of Martian exobase temperatures: Diurnal and solar cycle variations[J]. 地球与行星物理论评, 2023, 54(1): 91-99.<br>

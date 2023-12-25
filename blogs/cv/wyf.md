@@ -33,7 +33,7 @@ title: 王一凡
 （4）国家自然科学基金面上项目, 11773020, 高红移热尘埃遮蔽星系的多波段观测研究, 2018-01-01 至 2021-12-31, 64万元, 结题, 参与
 
 ### 发表论文
-[1] **Wang, Yi-Fan**; Jiang, Yun-Guo; A Comprehensive Study on the Variation Phenomena of AO 023 5+164, The Astrophysical Journal, 2020, 902(1): 41-52  
-[2] **Wang, Yi-Fan**; Jiang, Yun-Guo; Interpreting the variation phenomena of B2 1633+382 via the two-component model, Monthly Notices of the Royal Astronomical Society, 2021, 504(2): 2509-2516
-[3]Huang, Shi-feng; Yin, Hong-Xing; Hu, Shao-ming; Chen, Xu; Jiang, Yun-Guo; Sofya, Alexeeva; **Wang, Yi-Fan**; The X-ray outburst of PG 1553+113: A precession effect of two jets in the supermassive black hole binary system, The Astrophysical Journal, 2021, 922(222)  
-[4] Dong, Fu-Tong; Gai, Ning; Tang, Yanke; **Wang, Yi-Fan**; Yi, Ting-Feng; Evidence of quasi-periodic oscillation in the optical band of the blazar 1ES 1959+650, Research in Astronomy and Astrophysics, 2022, 22(11)
+[1] **Wang, Yi-Fan**; Jiang, Yun-Guo; A Comprehensive Study on the Variation Phenomena of AO 023 5+164, The Astrophysical Journal, 2020, 902(1): 41-52  <br>
+[2] **Wang, Yi-Fan**; Jiang, Yun-Guo; Interpreting the variation phenomena of B2 1633+382 via the two-component model, Monthly Notices of the Royal Astronomical Society, 2021, 504(2): 2509-2516<br>
+[3]Huang, Shi-feng; Yin, Hong-Xing; Hu, Shao-ming; Chen, Xu; Jiang, Yun-Guo; Sofya, Alexeeva; **Wang, Yi-Fan**; The X-ray outburst of PG 1553+113: A precession effect of two jets in the supermassive black hole binary system, The Astrophysical Journal, 2021, 922(222)  <br>
+[4] Dong, Fu-Tong; Gai, Ning; Tang, Yanke; **Wang, Yi-Fan**; Yi, Ting-Feng; Evidence of quasi-periodic oscillation in the optical band of the blazar 1ES 1959+650, Research in Astronomy and Astrophysics, 2022, 22(11)<br>
