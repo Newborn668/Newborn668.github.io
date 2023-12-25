@@ -6,10 +6,10 @@ title: 李子川
 
 ## 李子川
 
->>讲师
+>讲师
 
 <center>
-<img src = "/blogs/cv.ph/lzc.jpg">
+<img src = "/blogs/cv.ph/lzc.jpeg">
 </center>
 <br>
 
