@@ -17,4 +17,3 @@ title: 科研动态
 - [2023/09/26 AGN外流气体的时间依赖光电离分析](https://newborn668.github.io/blogs2/zuihui/z20230926)<br>
 - [2023/09/20 发展天体物理创新团队的思路与建议](https://newborn668.github.io/blogs2/zuihui/z20230920)<br>
 
-### 学术交流
