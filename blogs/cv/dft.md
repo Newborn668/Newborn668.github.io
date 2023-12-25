@@ -6,7 +6,7 @@ title: 董富通
 
 ## 董富通
 
->> 讲师
+>讲师
 
 <center>
 <img src = "/blogs/cv.ph/dft.png">
