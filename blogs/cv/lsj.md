@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /blogs/cv/tyk/index.html
+permalink: /blogs/cv/lsj/index.html
 title: 李仕杰
 ---
 
 ## 李仕杰
 
-> 讲师
+>> 讲师
 
 <center>
 <img src = "/blogs/cv.ph/lsj.jpg">
