@@ -13,7 +13,7 @@ title: 团队成员
 ### 星系和高能物理
 - [董富通](https://newborn668.github.io/blogs/cv/dft)<br>
 - [王一凡](https://newborn668.github.io/blogs/cv/wyf)<br>
-- [高阳](https://newborn668.github.io/blogs/cv/gy)<br>
+- [高扬](https://newborn668.github.io/blogs/cv/gy)<br>
 - [李雨桐](https://newborn668.github.io/blogs/cv/lyt)<br><br>
 ### 太阳物理和行星大气
 - [李传洋](https://newborn668.github.io/blogs/cv/lcy)<br>
