@@ -6,7 +6,7 @@ title: 杨海莲
 
 ## 杨海莲
 
-> 教授
+> 讲师
 
 <center>
 <img src = "/blogs/cv.ph/yhl.png">

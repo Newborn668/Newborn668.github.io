@@ -6,7 +6,7 @@ title: 徐晓东
 
 ## 徐晓东
 
-> 教授
+> 讲师
 
 <center>
 <img src = "/blogs/cv.ph/xxd.png">
