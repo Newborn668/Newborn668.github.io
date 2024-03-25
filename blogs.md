@@ -5,9 +5,9 @@ title: 团队成员
 ---
 
 ### 恒星物理和星震学
-- [盖宁（团队负责人，教授）]<br>
+- [盖宁（团队负责人，教授）](https://newborn668.github.io/blogs/cv/gn)<br>
 - [唐延柯（教授）](https://newborn668.github.io/blogs/cv/tyk)<br>
-- [杨海莲]<br>
+- [杨海莲](https://newborn668.github.io/blogs/cv/yhl)<br>
 - [李仕杰](https://newborn668.github.io/blogs/cv/lsj)<br>
 - [徐晓东](https://newborn668.github.io/blogs/cv/xxd)<br><br>
 ### 星系和高能物理
