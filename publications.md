@@ -8,20 +8,20 @@ title: 研究方向
 
 ## 研究方向
 
-- 大方向一 <br>
-1.<br>
-2.<br>
-3.<br>
-- 大方向2<br>
-1.<br>
-2.<br>
-3.<br>
-- 大方向3<br>
-1.<br>
-2.<br>
-- 大方向4<br>
-1.<br>
-2.<br>
+- **恒星物理和星震学：** <br>
+1.恒星元素丰度<br>
+2.恒星内部结构演化<br>
+3.恒星参量和He丰度的星震学<br>
+- **星系和高能物理：**<br>
+1.星系形成和演化<br>
+2.活动星系核及耀变体的光变机制<br>
+3.高能时域天文<br>
+- **太阳物理和行星大气：**<br>
+1.太阳射电暴的辐射机制<br>
+2.系内行星高层大气物理<br>
+<!-- - 大方向4<br> -->
+<!-- 1.<br> -->
+<!-- 2.<br> -->
 
 <!-- - [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex). -->
 
