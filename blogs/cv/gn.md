@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /blogs/cv/tyk/index.html
-title: 唐延柯
+permalink: /blogs/cv/gn/index.html
+title: 盖宁
 ---
 
-## 唐延柯
+## 盖宁
 
 > 教授
 
 <center>
-<img src = "/blogs/cv.ph/tyk.jpg">
+<img src = "/blogs/cv.ph/gn.png">
 </center>
 <br>
 
