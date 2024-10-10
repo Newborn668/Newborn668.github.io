@@ -9,7 +9,7 @@ title: 张丹丹
 >讲师
 
 <center>
-<img src = "/blogs/cv.ph/lzc.png">
+<img src = "/blogs/cv.ph/zdd.png">
 </center>
 <br>
 
